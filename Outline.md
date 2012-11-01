@@ -11,9 +11,11 @@ The smartphone is a relatively sudden and recent phenomenon. Through the evoluti
 1. Marx
 2. McLuhan - The Gutenberg Galaxy
 3. Baudrillard - The Consumer Society
-4. Turkle - The Second Self
-4.1. The computer as a marginal object
-4.2. Lacan and the Other
+4. Ludlow - Our Future in Virtual Worlds
+5. Turkle - The Second Self
+5.1. The computer as a marginal object
+5.2. Lacan and the Other
+5.3. Hartmann and Boundaries - http://en.wikipedia.org/wiki/Boundaries_of_the_mind
 # Ch. III Cyborg Theory and Postmodern Theory
 1. Haraway - Cyborgs, Simians, and Women
 2. Baudrillard - Simulacra and Simulation [offered as a counterpoint to Consumer Society?]
