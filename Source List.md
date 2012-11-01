@@ -14,7 +14,7 @@
 - Understanding Media – the gadget lover
 - Laws of Media – tetrad [useful diagnostic tool]
 
-### DeBray?
+### DeBray
 - Media Manifestos – critique of McLuhan for conflating medium and media
 
 ### Baudrillard
