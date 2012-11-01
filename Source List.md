@@ -24,9 +24,12 @@
 ## Max Headroom
 ## Clay Shirky
 - http://www.theverge.com/2012/9/27/3416800/clay-shirky-internet-government-talk
+
 ## Clive Thompson
 - The Rules of Panic - Wired 20.11, Wanted
+
 ## Warren Ellis
 - http://theverge.com/2012/11/1/3569208/warren-ellis-futurism-new-aesthetic-social-media
+
 ## Genevieve Bell
 - http://blogs.wsj.com/tech-europe/2011/04/28/want-to-understand-the-future-tell-a-story-says-intel/
