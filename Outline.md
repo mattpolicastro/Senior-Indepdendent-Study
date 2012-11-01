@@ -23,6 +23,9 @@ The smartphone is a relatively sudden and recent phenomenon. Through the evoluti
 3.1. Marginality amok
 
 # Ch. IV Methods
+1. Survey Research
+2. Qualitative Interviews
+3. Auto-ethnography
 # Ch. V Results
 # Ch. VI Conclusion
 1. New Aesthetic
