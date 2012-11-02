@@ -47,3 +47,6 @@
 
 ## Ben Popper
 - Singularity http://www.theverge.com/2012/10/22/3535518/singularity-rapture-of-the-nerds-gods-end-human-race
+
+## Elizabeth Lopatto
+- "The Scream" at MoMA in a Digital Age http://www.theawl.com/2012/10/munch-the-scream-at-moma
