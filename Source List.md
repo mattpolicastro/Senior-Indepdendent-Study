@@ -44,3 +44,6 @@
 
 ## Genevieve Bell
 - http://blogs.wsj.com/tech-europe/2011/04/28/want-to-understand-the-future-tell-a-story-says-intel/
+
+## Ben Popper
+- Singularity http://www.theverge.com/2012/10/22/3535518/singularity-rapture-of-the-nerds-gods-end-human-race
