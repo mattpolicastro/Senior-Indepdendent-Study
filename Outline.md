@@ -11,8 +11,14 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 # Ch. I Introduction
 1. Moral Panic
 1.1. Genevieve Bell/Clive Thompson's rules for moral panic in response to technology
+1.2. Documentation of smartphone slaes/graphs
+1.3. Saskia Sassen & Kevin Kelly
 
-# Ch. II Marxist and Modernist Interpretations
+# Ch. II Macrosociological
+
+This section will provide an account of the profoundly macro sociological effects of the digital revolution, resulting in 
+
+
 1. Marx
 2. McLuhan - The Gutenberg Galaxy
 3. Baudrillard - The Consumer Society
@@ -22,7 +28,7 @@ Smartphone sales have swiftly become a business worth billions of dollars, and t
 5.2. Lacan and the Other
 5.3. Hartmann and Boundaries - http://en.wikipedia.org/wiki/Boundaries_of_the_mind
 
-# Ch. III Cyborg Theory and Postmodern Theory
+# Ch. III Microsociological
 1. Haraway - Cyborgs, Simians, and Women
 2. Baudrillard - Simulacra and Simulation [offered as a counterpoint to Consumer Society?]
 3. Turkle - Alone Together
